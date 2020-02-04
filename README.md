@@ -18,10 +18,10 @@ This integration is pre-installed with every VersaCommerce store. To enable it, 
 ## Files
 
 ### head.liquid
-All code for this integration takes places in head.liquid, which is injected inside ```<head>...</head>``` of the rendered html document.
+Part of the code for this integration takes places in head.liquid, which is injected inside ```<head>...</head>``` of the rendered html document.
 
 ### body.liquid
-All code for this integration takes places in body.liquid, which is injected inside ```<body>...</body>``` of the rendered html document.
+Part of the code for this integration takes places in body.liquid, which is injected inside ```<body>...</body>``` of the rendered html document.
 
 ### email.liquid
 This file is empty because it's not needed for this integration.
