@@ -1,5 +1,5 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
-[<img src="tagmanager.png" width="100px" align="right" alt="google.com/intl/de/tagmanager">](https://www.google.com/intl/de/tagmanager/?utm_source=www.versacommerce.de)
+[<img src="tagmanager.png" width="90px" align="right" alt="google.com/intl/de/tagmanager">](https://www.google.com/intl/de/tagmanager/?utm_source=www.versacommerce.de)
 
 # Google Tag Manager Integration for VersaCommerce
 
